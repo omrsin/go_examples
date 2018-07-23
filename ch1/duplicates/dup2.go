@@ -1,5 +1,5 @@
 // Dup2 prints the text of each line that appears more than
-// once in the input, preceeded by its count. It reas from
+// once in the input, preceeded by its count. It reads from
 // standard in or from a list of files
 package main
 
